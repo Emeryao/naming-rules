@@ -3,6 +3,7 @@
 
 ## Overall
 
+* Readable
 * Avoid keyword
 * Avoid leading character or main boss
 * Avoid simple and common words
